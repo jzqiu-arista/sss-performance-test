@@ -1,1 +1,4 @@
-bar
+{
+    "_source": "randomly generated according to regex at https://github.com/trufflesecurity/trufflehog/blob/main/pkg/detectors/grafana/grafana.go#L25",
+    "token": "glc_1329428asdfhgakwug920h2ofasoisdjef2032jfjowjd029f2i40jfw="
+}
